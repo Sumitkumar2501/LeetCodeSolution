@@ -19,10 +19,10 @@ public:
         for(int i=0;i<count1;i++){
             nums[i]=0;
         }
-        for(int i=count1+1;i<count1+count2;i++){
+        for(int i=count1;i<count1+count2;i++){
             nums[i]=1;
         }
-        for(int i=count2+1;i<n;i++){
+        for(int i=count2+count1;i<n;i++){
             nums[i]=2;
         }
         
