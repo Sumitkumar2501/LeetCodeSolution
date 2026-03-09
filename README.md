@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0057-insert-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0986-interval-list-intersections/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
