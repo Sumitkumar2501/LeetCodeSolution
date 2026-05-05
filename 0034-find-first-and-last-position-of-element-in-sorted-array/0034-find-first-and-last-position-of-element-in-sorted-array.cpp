@@ -1,49 +1,37 @@
 class Solution {
 public:
-
-    int firstOccurence(vector<int>& nums, int target) {
-        int low = 0, high = nums.size() - 1;
-        int ans = -1;
-
-        while (low <= high) {
-            int mid = (low + high) / 2;
-
-            if (nums[mid] == target) {
-                ans = mid;
-                high = mid - 1; // move left
-            }
-            else if (nums[mid] < target) {
-                low = mid + 1;
-            }
-            else {
-                high = mid - 1;
-            }
-        }
-        return ans;
-    }
-
-    int lastOccurence(vector<int>& nums, int target) {
-        int low = 0, high = nums.size() - 1;
-        int ans = -1;
-
-        while (low <= high) {
-            int mid = (low + high) / 2;
-
-            if (nums[mid] == target) {
-                ans = mid;
-                low = mid + 1; // move right
-            }
-            else if (nums[mid] < target) {
-                low = mid + 1;
-            }
-            else {
-                high = mid - 1;
-            }
-        }
-        return ans;
-    }
-
     vector<int> searchRange(vector<int>& nums, int target) {
-        return { firstOccurence(nums, target), lastOccurence(nums, target) };
+        int first = -1, last = -1;
+        int n = nums.size();
+
+        // find first
+        int left = 0, right = n - 1;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (nums[mid] >= target) {
+                right = mid - 1;
+            } else {
+                left = mid + 1;
+            }
+
+            if (nums[mid] == target) first = mid;
+        }
+
+        // find last
+        left = 0, right = n - 1;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (nums[mid] <= target) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+
+            if (nums[mid] == target) last = mid;
+        }
+
+        return {first, last};
     }
 };
