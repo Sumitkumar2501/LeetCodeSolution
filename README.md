@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0796-rotate-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0796-rotate-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
