@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
