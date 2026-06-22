@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0367-valid-perfect-square](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
