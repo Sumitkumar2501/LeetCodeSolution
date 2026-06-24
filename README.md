@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0986-interval-list-intersections/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
