@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0027-remove-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0011-container-with-most-water/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Math
