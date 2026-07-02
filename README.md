@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0704-binary-search](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0441-arranging-coins/) | Easy |
+| [0704-binary-search](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
