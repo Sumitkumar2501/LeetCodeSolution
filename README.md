@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0035-search-insert-position/) | Easy |
+| [0046-permutations](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0046-permutations/) | Medium |
 | [0056-merge-intervals](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0057-insert-interval/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -163,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
