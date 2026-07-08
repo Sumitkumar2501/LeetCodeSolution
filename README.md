@@ -177,4 +177,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0196-delete-duplicate-emails](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
