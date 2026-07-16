@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0344-reverse-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0344-reverse-string/) | Easy |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
