@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0011-container-with-most-water/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0392-is-subsequence/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0796-rotate-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0392-is-subsequence/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0845-longest-mountain-in-array/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -152,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
