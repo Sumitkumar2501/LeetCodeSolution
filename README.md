@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0383-ransom-note](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0383-ransom-note/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0344-reverse-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0392-is-subsequence/) | Easy |
 | [0796-rotate-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0796-rotate-string/) | Easy |
 ## Bit Manipulation
@@ -183,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
