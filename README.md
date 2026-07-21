@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0383-ransom-note](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0383-ransom-note/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0771-jewels-and-stones/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0796-rotate-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
