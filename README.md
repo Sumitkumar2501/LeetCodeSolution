@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0441-arranging-coins/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
@@ -177,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Backtracking
@@ -211,4 +215,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
