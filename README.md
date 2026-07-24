@@ -169,12 +169,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Backtracking
@@ -218,4 +221,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
