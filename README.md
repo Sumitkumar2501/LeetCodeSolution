@@ -240,4 +240,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
