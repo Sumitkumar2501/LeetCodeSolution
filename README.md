@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0046-permutations/) | Medium |
+| [0053-maximum-subarray](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0057-insert-interval/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0053-maximum-subarray/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0097-interleaving-string/) | Medium |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0053-maximum-subarray/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
