@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0056-merge-intervals/) | Medium |
 | [0179-largest-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0217-contains-duplicate](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0383-ransom-note/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0496-next-greater-element-i/) | Easy |
