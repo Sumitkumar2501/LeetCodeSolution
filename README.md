@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0057-insert-interval/) | Medium |
+| [0075-sort-colors](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0179-largest-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0268-missing-number/) | Easy |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -287,4 +290,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0496-next-greater-element-i/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
