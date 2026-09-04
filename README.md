@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0009-palindrome-number/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0268-missing-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0367-valid-perfect-square/) | Easy |
