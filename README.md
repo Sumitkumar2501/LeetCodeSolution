@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0771-jewels-and-stones/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0771-jewels-and-stones/) | Easy |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,4 +305,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0075-sort-colors/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
