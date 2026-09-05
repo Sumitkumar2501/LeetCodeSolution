@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0179-largest-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0383-ransom-note/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0496-next-greater-element-i/) | Easy |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0179-largest-number/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0242-valid-anagram](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0383-ransom-note/) | Easy |
