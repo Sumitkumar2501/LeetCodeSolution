@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0179-largest-number/) | Medium |
+| [0189-rotate-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0009-palindrome-number/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0189-rotate-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0441-arranging-coins/) | Easy |
