@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0057-insert-interval/) | Medium |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0179-largest-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0179-largest-number/) | Medium |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0049-group-anagrams/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0217-contains-duplicate/) | Easy |
@@ -128,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0049-group-anagrams/) | Medium |
 | [0097-interleaving-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0151-reverse-words-in-a-string/) | Medium |
