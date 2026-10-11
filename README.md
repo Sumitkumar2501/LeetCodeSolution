@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0217-contains-duplicate/) | Easy |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -328,4 +331,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
