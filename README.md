@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0986-interval-list-intersections](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0986-interval-list-intersections/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0441-arranging-coins/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,4 +339,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/0141-linked-list-cycle/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sumitkumar2501/LeetCodeSolution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
